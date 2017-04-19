@@ -1,7 +1,7 @@
 # hohcsBikeClassification
 classify the data 
 
-
+excel: https://docs.google.com/spreadsheets/d/1-adyqmz2miPHtSUKzNYbQ_Hew55SjLx4cwK65Z6CW4c/edit#gid=1970847772
 
 Todo list:
 1. prepare csv 
