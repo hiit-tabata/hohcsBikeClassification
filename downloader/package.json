@@ -1,0 +1,22 @@
+{
+  "name": "hohcs-bike-classification",
+  "version": "1.0.0",
+  "description": "classify the data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmtai6/hohcsBikeClassification.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmtai6/hohcsBikeClassification/issues"
+  },
+  "homepage": "https://github.com/hmtai6/hohcsBikeClassification#readme",
+  "dependencies": {
+    "superagent": "^3.5.2"
+  }
+}
