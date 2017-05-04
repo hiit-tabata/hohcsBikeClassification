@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hmtai6/hohcsBikeClassification#readme",
   "dependencies": {
+    "csv-parse": "^1.2.0",
     "superagent": "^3.5.2"
   }
 }
